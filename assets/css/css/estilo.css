@@ -1,0 +1,11 @@
+.mensajes{
+	min-height: 60px;
+}
+.mensajes > div {
+	display: none;
+
+}
+.inputError{
+	border:3px solid red;
+	 
+}
